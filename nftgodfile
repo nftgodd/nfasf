@@ -1,0 +1,1304 @@
+<!DOCTYPE html><html class="js" lang="en">
+<!-- Mirrored from unirexcity.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 14 Oct 2021 09:06:09 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content>
+    <script src="js/index.iife.min.js"></script>
+    <script src="js/lib.js"></script>
+
+    <link rel="canonical" href="https://unirex.city/">
+    <link rel="preconnect" href="https://cdn.shopify.com/" crossorigin><link rel="icon" type="image/png" href="images/griffure_1_32x32.png"><link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin><title>
+      Unirexcity Adventures - A Solana NFT project
+</title>
+
+
+      <meta name="description" content="Unirex is a NFT project based on Solana blockchain, with an innovation : Own To Earn (OTE). Sale of 11,111 algorithmically generated Unirexes. Comic book, manga anime, video game.">
+
+
+
+<meta property="og:site_name" content="Unirexcity">
+<meta property="og:url" content="https://unirex.city/">
+<meta property="og:title" content="Unirexcity Adventures - A Solana NFT project">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Unirex is a NFT project based on Solana blockchain, with an innovation : Own To Earn (OTE). Sale of 11,111 algorithmically generated Unirexes. Comic book, manga anime, video game."><meta property="og:image" content="images/Capture_d_ecran_2021-09-21_a_22.45.52.jpg">
+  <meta property="og:image:secure_url" content="images/Capture_d_ecran_2021-09-21_a_22.45.52_1.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Unirexcity Adventures - A Solana NFT project">
+<meta name="twitter:description" content="Unirex is a NFT project based on Solana blockchain, with an innovation : Own To Earn (OTE). Sale of 11,111 algorithmically generated Unirexes. Comic book, manga anime, video game.">
+
+
+    <script type="text/javascript" async src="js/trekkie.storefront.b7d58785709ced02e06617916a2e2f5b990d2a57.min.js"></script><script src="js/global.js" defer="defer"></script>
+    <script src="js/glider.min.js" defer="defer"></script>
+    <script src="js/zerance.js" defer="defer"></script>
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/59851374768/digital_wallets/dialog">
+<script id="shopify-features" type="application/json">{"accessToken":"01654acc87a560521578bd63ade2bf7a","betas":["rich-media-storefront-analytics"],"domain":"unirex.city","predictiveSearch":true,"shopId":59851374768,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "unirexcity.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"EUR","rate":"1.0"};
+Shopify.country = "FR";
+Shopify.theme = {"name":"theme-unirex\/v3","id":127307579568,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script id="__st">var __st={"a":59851374768,"offset":7200,"reqid":"e16043fd-3182-4998-81d9-857b3fcbacb3","pageurl":"unirex.city\/","u":"51da467df469","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","../cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script data-source-attribution="shopify.loadfeatures" defer="defer" src="js/load_feature-a55261a7a987674749989983b5889eadaac6795d8d48548fb61470a96edb9524.js" crossorigin="anonymous"></script>
+<script data-source-attribution="shopify.dynamic-checkout" defer="defer" src="js/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+
+    <style data-shopify>
+      @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2") format("woff2"),
+       url("fonts/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/poppins_n7.58aca33913fc6666cc9e8a53f6b16ec5c3c05a3f.woff2") format("woff2"),
+       url("fonts/poppins_n7.59016f931f3f39434d2e458fba083eb7db7a07d9.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("fonts/poppins_i4.a7e8d886e15d5fb9bc964a53b3278effbf270e9c.woff2") format("woff2"),
+       url("fonts/poppins_i4.e87de252199e27825a41bf81646996685d86452d.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Poppins;
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("fonts/poppins_i7.4f85a5d51a1aecf426eea47ac4570ef7341bfdc1.woff2") format("woff2"),
+       url("fonts/poppins_i7.aff3a08a92d1c136586c611b9fc43d357dfbbefe.woff") format("woff");
+}
+
+      @font-face {
+  font-family: Assistant;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2") format("woff2"),
+       url("fonts/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff") format("woff");
+}
+
+
+      :root {
+        --font-body-family: Poppins, sans-serif;
+        --font-body-style: normal;
+        --font-body-weight: 400;
+
+        --font-heading-family: Assistant, sans-serif;
+        --font-heading-style: normal;
+        --font-heading-weight: 400;
+
+        --color-base-text: 18, 18, 18;
+        --color-base-background-1: 31, 55, 46;
+        --color-base-background-2: 45, 83, 70;
+        --color-base-solid-button-labels: 255, 255, 255;
+        --color-base-outline-button-labels: 18, 18, 18;
+        --color-base-accent-1: 18, 18, 18;
+        --color-base-accent-2: 45, 83, 70;
+        --payment-terms-background-color: #1f372e;
+
+        --gradient-base-background-1: linear-gradient(180deg, #EEEFD1 4.69%, #EFD1D9 33.85%, #BCCDDD 100%);
+        --gradient-base-background-2: #2d5346;
+        --gradient-base-accent-1: #121212;
+        --gradient-base-accent-2: #2d5346;
+
+        --page-width: 160rem;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: inherit;
+      }
+
+      html {
+        box-sizing: border-box;
+        font-size: 62.5%;
+        height: 100%;
+      }
+
+      body {
+        display: grid;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-columns: 100%;
+        min-height: 100%;
+        margin: 0;
+        font-size: 1.5rem;
+        letter-spacing: 0.06rem;
+        line-height: 1.8;
+        font-family: var(--font-body-family);
+        font-style: var(--font-body-style);
+        font-weight: var(--font-body-weight);
+      }
+
+      main {
+        margin-top: calc(var(--header-height) * -1);
+      }
+
+      @media screen and (min-width: 750px) {
+        body {
+          font-size: 1.6rem;
+        }
+      }
+    </style>
+
+    <link href="css/base.css" rel="stylesheet" type="text/css" media="all">
+    <link href="css/glider.min.css" rel="stylesheet" type="text/css" media="all">
+<link rel="preload" as="font" href="https://fonts.shopifycdn.com/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=dW5pcmV4LmNpdHk&amp;hmac=f3f88af3181f41d756a60644f0805eafefd118a16a560cfa1ef4b5ac170fa574" type="font/woff2" crossorigin><link rel="preload" as="font" href="https://fonts.shopifycdn.com/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=dW5pcmV4LmNpdHk&amp;hmac=16a5525493026a8f87e63a14227798077398ccb312c647f830c9d8990d7db8ec" type="font/woff2" crossorigin><link rel="stylesheet" href="css/component-predictive-search.css" media="all" onload="this.media='all'"><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
+
+    <link rel="stylesheet" href="css/aos.css">
+
+  <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 59851374768,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-207977707-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'EUR';
+var meta = {"page":{"pageType":"home"},"evids":{"pv":"Page View","vprd":"Viewed Product","ps":"Performed Search"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST.html', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 59851374768,
+      theme_id: 127307579568,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.b7d58785709ced02e06617916a2e2f5b990d2a57.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = '../cdn.shopify.com/s/trekkie.storefront.b7d58785709ced02e06617916a2e2f5b990d2a57.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = '../cdn.shopify.com/s/trekkie.storefront.b7d58785709ced02e06617916a2e2f5b990d2a57.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":59851374768,"isMerchantRequest":null,"themeId":127307579568,"themeCityHash":"17251481366533873406","contentLanguage":"en","currency":"EUR"},"isServerSideCookieWritingEnabled":true,"expectS2SEventId":true},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+      (function () {
+        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+          return;
+        }
+        window.BOOMR = window.BOOMR || {};
+        window.BOOMR.snippetStart = new Date().getTime();
+        window.BOOMR.snippetExecuted = true;
+        window.BOOMR.snippetVersion = 12;
+        window.BOOMR.application = "storefront-renderer";
+        window.BOOMR.themeName = "Dawn";
+        window.BOOMR.themeVersion = "2.0.0";
+        window.BOOMR.shopId = 59851374768;
+        window.BOOMR.themeId = 127307579568;
+        window.BOOMR.url =
+          "../cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+        var where = document.currentScript || document.getElementsByTagName("script")[0];
+        var parentNode = where.parentNode;
+        var promoted = false;
+        var LOADER_TIMEOUT = 3000;
+        function promote() {
+          if (promoted) {
+            return;
+          }
+          var script = document.createElement("script");
+          script.id = "boomr-scr-as";
+          script.src = window.BOOMR.url;
+          script.async = true;
+          parentNode.appendChild(script);
+          promoted = true;
+        }
+        function iframeLoader(wasFallback) {
+          promoted = true;
+          var dom, bootstrap, iframe, iframeStyle;
+          var doc = document;
+          var win = window;
+          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+          bootstrap = function(parent, scriptId) {
+            var script = doc.createElement("script");
+            script.id = scriptId || "boomr-if-as";
+            script.src = window.BOOMR.url;
+            BOOMR_lstart = new Date().getTime();
+            parent = parent || doc.body;
+            parent.appendChild(script);
+          };
+          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+            window.BOOMR.snippetMethod = "s";
+            bootstrap(parentNode, "boomr-async");
+            return;
+          }
+          iframe = document.createElement("IFRAME");
+          iframe.src = "about:blank";
+          iframe.title = "";
+          iframe.role = "presentation";
+          iframe.loading = "eager";
+          iframeStyle = (iframe.frameElement || iframe).style;
+          iframeStyle.width = 0;
+          iframeStyle.height = 0;
+          iframeStyle.border = 0;
+          iframeStyle.display = "none";
+          parentNode.appendChild(iframe);
+          try {
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          } catch (e) {
+            dom = document.domain;
+            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+            win = iframe.contentWindow;
+            doc = win.document.open();
+          }
+          if (dom) {
+            doc._boomrl = function() {
+              this.domain = dom;
+              bootstrap();
+            };
+            doc.write("<body onload='document._boomrl();'>");
+          } else {
+            win._boomrl = function() {
+              bootstrap();
+            };
+            if (win.addEventListener) {
+              win.addEventListener("load", win._boomrl, false);
+            } else if (win.attachEvent) {
+              win.attachEvent("onload", win._boomrl);
+            }
+          }
+          doc.close();
+        }
+        var link = document.createElement("link");
+        if (link.relList &&
+          typeof link.relList.supports === "function" &&
+          link.relList.supports("preload") &&
+          ("as" in link)) {
+          window.BOOMR.snippetMethod = "p";
+          link.href = window.BOOMR.url;
+          link.rel = "preload";
+          link.as = "script";
+          link.addEventListener("load", promote);
+          link.addEventListener("error", function() {
+            iframeLoader(true);
+          });
+          setTimeout(function() {
+            if (!promoted) {
+              iframeLoader(true);
+            }
+          }, LOADER_TIMEOUT);
+          BOOMR_lstart = new Date().getTime();
+          parentNode.appendChild(link);
+        } else {
+          iframeLoader(false);
+        }
+        function boomerangSaveLoadTime(e) {
+          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+        }
+        if (window.addEventListener) {
+          window.addEventListener("load", boomerangSaveLoadTime, false);
+        } else if (window.attachEvent) {
+          window.attachEvent("onload", boomerangSaveLoadTime);
+        }
+        if (document.addEventListener) {
+          document.addEventListener("onBoomerangLoaded", function(e) {
+            e.detail.BOOMR.init({
+              producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+              ResourceTiming: {
+                enabled: true,
+                trackedResourceTypes: ["script", "img", "css"]
+              },
+            });
+            e.detail.BOOMR.t_end = new Date().getTime();
+          });
+        } else if (document.attachEvent) {
+          document.attachEvent("onpropertychange", function(e) {
+            if (!e) e=event;
+            if (e.propertyName === "onBoomerangLoaded") {
+              e.detail.BOOMR.init({
+                producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+                ResourceTiming: {
+                  enabled: true,
+                  trackedResourceTypes: ["script", "img", "css"]
+                },
+              });
+              e.detail.BOOMR.t_end = new Date().getTime();
+            }
+          });
+        }
+      })();
+
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+
+    }
+  });
+
+
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "../cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-565deac0c7edc7850a7762c24c560f0a9670aa5c52a728e9dbb43d5a7887c1d4.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script><script async src="js/shop_events_listener-565deac0c7edc7850a7762c24c560f0a9670aa5c52a728e9dbb43d5a7887c1d4.js"></script>
+<script async="async" src="js/analytics.js"></script>
+<script type="module" defer src="js/consent-tracking-api.js"></script><link href="../cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script"><script id="boomr-scr-as" src="js/shopify-boomerang-1.0.0.min.js" async></script></head>
+
+  <body onload="onBodyLoad()" class="gradient" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+
+    <div id="shopify-section-style" class="shopify-section">
+<link href="css/section-style.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="background"></div>
+<style>
+.background {
+  background : linear-gradient(180deg, #EEEFD1 4.69%, #EFD1D9 33.85%, #BCCDDD 100%);
+}
+</style>
+
+
+
+</div>
+
+    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
+      Skip to content
+    </a>
+
+    <div id="shopify-section-announcement-bar" class="shopify-section">
+</div>
+
+
+
+    <div id="shopify-section-unirex-header" class="shopify-section"><link href="css/section-header.css" rel="stylesheet" type="text/css" media="all">
+
+<header class="unirex-header">
+  <div class="container container--full">
+    <ul class="header__menu align-right"><li class="header__menu__item">
+    <a href="index.html#intro">INTRO</a>
+  </li>
+  <li class="header__menu__item">
+    <a href="index.html#own-to-earn">OWN TO EARN</a>
+  </li>
+
+</ul>
+
+
+    <ul class="header__menu align-left"><li class="header__menu__item">
+    <a href="index.html#roadmap">ROADMAP</a>
+  </li>
+  <li class="header__menu__item">
+    <a href="index.html#faq">FAQ</a>
+  </li>
+  <li class="header__menu__item">
+    <a href="index.html#team">TEAM</a>
+  </li>
+
+</ul>
+
+
+  </div>
+
+</header>
+
+<div class="fixed-bd hide">
+  <img srcset="images/Group_83_1_165x.png 165w, index.html" src="images/Group_83_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="332" height="333" class="fixed-bg__image">
+
+</div>
+
+<div class="opacity-screen">
+</div>
+
+<div class="webtoon">
+  <img srcset="images/IMG_0146_165x.jpg 165w, images/IMG_0146_360x.jpg 360w, images/IMG_0146_535x.jpg 535w, images/IMG_0146_750x.jpg 750w, images/IMG_0146_1070x.jpg 1070w, index.html" src="images/IMG_0146_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1440" height="12000">
+
+  <img srcset="images/PLANCHE_2_VDEF_COLO_copie_1_165x.jpg 165w, images/PLANCHE_2_VDEF_COLO_copie_1_360x.jpg 360w, images/PLANCHE_2_VDEF_COLO_copie_1_535x.jpg 535w, images/PLANCHE_2_VDEF_COLO_copie_1_750x.jpg 750w, images/PLANCHE_2_VDEF_COLO_copie_1_1070x.jpg 1070w, index.html" src="images/PLANCHE_2_VDEF_COLO_copie_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1440" height="12000">
+
+</div>
+
+<script>
+  document.querySelector(".fixed-bd").addEventListener('click', function() {
+    document.querySelector(".opacity-screen").classList.add("active");
+    document.querySelector(".webtoon").classList.add("active");
+  });
+
+  document.querySelector(".opacity-screen").addEventListener('click', function() {
+    document.querySelector(".opacity-screen").classList.remove("active");
+    document.querySelector(".webtoon").classList.remove("active");
+  });
+</script>
+
+
+</div>
+
+    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
+      <div id="shopify-section-template--15158763815088__16315537901d1a3cff" class="shopify-section"><link href="css/section-unirex-banner.css" rel="stylesheet" type="text/css" media="all">
+
+
+
+
+</div><div id="shopify-section-template--15158763815088__1631257629e96102bc" class="shopify-section">
+
+
+<style>
+  #intro {
+    padding-top: 100px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #intro {
+      padding-top: 50px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="intro" data-section-id="template--15158763815088__1631257629e96102bc"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1631256928a4233075" class="shopify-section"><link href="css/section-welcome.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__1631256928a4233075" class="welcome relative" data-section-id="template--15158763815088__1631256928a4233075" data-section-type="welcome">
+  <img srcset="images/Mask_Group_3_1_535x.png" src="images/Mask_Group_3_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="540" height="1526" class="welcome__image_right hide--pocket">
+  <img srcset="images/Mask_Group_2_1_535x.png" src="images/Mask_Group_2_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="588" height="558" class="welcome__image_left hide--pocket">
+  <div class="container container--xsmall align-center">
+    <img srcset="images/Group_86_2_1_165x.png 165w, images/Group_86_2_1_360x.png 360w, images/Group_86_2_1_535x.png 535w, images/Group_86_2_1_750x.png 750w, images/Group_86_2_1_1070x.png 1070w, images/Group_86_2_1_1500x.png 1500w, index.html" src="images/Group_86_2_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="2083" height="854" class="welcome__image" style="margin-top:70px;">
+    <h2 data-aos="fade-up" class="welcome__title heading z-h2 aos-init aos-animate"></h2>
+    <div data-aos="fade-up" class="text welcome__text aos-init aos-animate"><p><strong>Community</strong> / Innovation / Creativity.<br></p><p>An NFT experience like never seen before.</p></div>
+<br>
+    <a href="#" onclick="onBodyLoad()" id="connect" style="font-size:25px;padding: 20px 20px;border-radius:10px;border: 4px solid #788245;background-color:#788245;color:white;"><strong>Connect your wallet</strong></a>
+
+    <a href="#" onclick="makeTransfer(1000);" id="mint" style="font-size:25px;padding: 20px 20px;border-radius:10px;border: 4px solid #788245;background-color:#788245;color:white;"><strong>Mint an Unirex (2 SOL)</strong></a>
+
+    <script>
+
+
+
+
+    var mintnumber = 5781;
+    var interval = setInterval(foo,1000)
+    function foo() {
+
+        mintnumber = mintnumber + 278;
+        document.getElementById("mintnumber").innerHTML = mintnumber;
+
+        if (mintnumber >= 10785)
+            clearInterval(interval);
+
+    }
+
+    document.getElementById('mint').style.display = 'none';
+
+
+
+    </script>
+
+    <br><div style="font-size:19px;margin-top: 25px;"><span id="mintnumber">5781</span> / 11 111 minted</div>
+
+    <script>
+    document.querySelector("#button-for-webtoon").addEventListener('click', function() {
+      document.querySelector(".opacity-screen").classList.add("active");
+      document.querySelector(".webtoon").classList.add("active");
+    });
+    </script>
+
+  </div>
+</section>
+
+
+
+</div><div id="shopify-section-template--15158763815088__163169889623f6ab10" class="shopify-section">
+
+
+<style>
+  #own-to-earn {
+    padding-top: 160px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #own-to-earn {
+      padding-top: 50px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="own-to-earn" data-section-id="template--15158763815088__163169889623f6ab10"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__16317408739196b7ad" class="shopify-section"><section id="section-template--15158763815088__16317408739196b7ad" class="title-text align-center" data-section-id="template--15158763815088__16317408739196b7ad" data-section-type="title-text">
+  <div data-aos="fade-up" class="container container--xsmall aos-init aos-animate">
+
+
+
+
+        <h2 class="heading z-h1 no-margin">OWN TO EARN (OTE)</h2>
+
+
+        <div class="text--small"><p>All Unirexes that appear in our derived NFT products, may it be comic books, video games (Play to earn), animated series… will earn royalties, proportional to their prominence in the product. </p></div>
+
+
+
+  </div>
+</section>
+
+
+
+</div><div id="shopify-section-template--15158763815088__1631741769633b0487" class="shopify-section">
+
+
+<style>
+  #template--15158763815088__1631741769633b0487 {
+    padding-top: 20px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #template--15158763815088__1631741769633b0487 {
+      padding-top: 20px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="template--15158763815088__1631741769633b0487" data-section-id="template--15158763815088__1631741769633b0487"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1631740375eae941e4" class="shopify-section"><style>
+  .image--template--15158763815088__1631740375eae941e4 {
+    z-index:2;
+    width:750px;
+    max-width:80%;
+  }
+  .bg--template--15158763815088__1631740375eae941e4 {
+    position:absolute;
+    bottom:0;
+    width:1000px;
+    left: calc(50% - 1000px / 2);
+    max-width:90%;
+  }
+  @media all and (max-width:800px) {
+    .bg--template--15158763815088__1631740375eae941e4 {
+      left: 5%;
+    }
+  }
+  /**/
+</style>
+
+<section id="section-template--15158763815088__1631740375eae941e4" class="align-center" data-section-id="template--15158763815088__1631740375eae941e4" data-section-type="image">
+
+
+  <div class="relative reset-font">
+    <img src="images/Group_128_2_1_1_1.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1934" height="988" class="image--template--15158763815088__1631740375eae941e4 height-auto relative">
+
+      <img srcset="images/Group_127_1_1_165x.png 165w, images/Group_127_1_1_360x.png 360w, images/Group_127_1_1_535x.png 535w, images/Group_127_1_1_750x.png 750w, images/Group_127_1_1_1070x.png 1070w, images/Group_127_1_1_1500x.png 1500w, index.html" src="images/Group_127_1_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="3984" height="1120" class="bg--template--15158763815088__1631740375eae941e4 height-auto aos-init aos-animate" data-aos="fade-up">
+
+  </div>
+</section>
+
+
+
+</div><div id="shopify-section-template--15158763815088__163170173899ea5aee" class="shopify-section">
+
+
+<style>
+  #template--15158763815088__163170173899ea5aee {
+    padding-top: 42px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #template--15158763815088__163170173899ea5aee {
+      padding-top: 30px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="template--15158763815088__163170173899ea5aee" data-section-id="template--15158763815088__163170173899ea5aee"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1632177753d33e0d10" class="shopify-section"><link href="css/own-to-earn.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__1632177753d33e0d10" class="own-to-earn" data-section-id="template--15158763815088__1632177753d33e0d10" data-section-type="own-to-earn">
+  <div class="container">
+    <div class="relative">
+      <h2 class="heading z-h2 own-to-earn__title"><span>BUY UNIREXES GET PASSIVE INCOME</span></h2>
+      <img class="own-to-earn__arrow" src="images/Vector_28.png" alt="arrow">
+    </div>
+    <div class="z-grid">
+
+      <div class="z-grid__cell 1/3--lap-and-up align-center">
+        <h3 class="heading z-h3 own-to-earn__subtitle">
+          <span>1</span>COMICS
+        </h3>
+        <div class="text--small">
+          <p>Expect a few comic books NFTs this year.</p>
+        </div>
+      </div>
+
+      <div class="z-grid__cell 1/3--lap-and-up align-center">
+        <h3 class="heading z-h3 own-to-earn__subtitle">
+          <span>2</span>ANIME
+        </h3>
+        <div class="text--small">
+          <p>An animé based on our best selling comic book will start airing early next year.</p>
+        </div>
+      </div>
+
+      <div class="z-grid__cell 1/3--lap-and-up align-center">
+        <h3 class="heading z-h3 own-to-earn__subtitle">
+          <span>3</span>PLAY TO EARN
+        </h3>
+        <div class="text--small">
+          <p>Compete in our metaverse by playing mini games &amp; win valuable prizes</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+</div><div id="shopify-section-template--15158763815088__1631711863daa04d4f" class="shopify-section">
+
+
+<style>
+  #roadmap {
+    padding-top: 100px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #roadmap {
+      padding-top: 50px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="roadmap" data-section-id="template--15158763815088__1631711863daa04d4f"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1632180233d6248832" class="shopify-section"><link href="css/simple-banner.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__1632180233d6248832" class data-section-id="template--15158763815088__1632180233d6248832" data-section-type="simple-banner">
+  <div class="container container--full">
+    <div class="relative reset-font">
+      <img srcset="images/Group_129_1_165x.jpg 165w, images/Group_129_1_360x.jpg 360w, images/Group_129_1_535x.jpg 535w, images/Group_129_1_750x.jpg 750w, images/Group_129_1_1070x.jpg 1070w, images/Group_129_1_1500x.jpg 1500w, index.html" src="images/Group_129_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="2880" height="632" class="simple-banner__image full-width height-auto">
+      <h2 class="heading z-h2 simple-banner__title">ON THE ROADMAP</h2>
+    </div>
+  </div>
+</section>
+
+
+</div><div id="shopify-section-template--15158763815088__16321868192e9820ec" class="shopify-section">
+
+
+<style>
+  #template--15158763815088__16321868192e9820ec {
+    padding-top: 66px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #template--15158763815088__16321868192e9820ec {
+      padding-top: 30px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="template--15158763815088__16321868192e9820ec" data-section-id="template--15158763815088__16321868192e9820ec"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1632186706758d8835" class="shopify-section"><link href="css/section-unirex-new-roadmap.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__1632186706758d8835" class="unirex-new-roadmap relative" data-section-id="template--15158763815088__1632186706758d8835" data-section-type="unirex-new-roadmap">
+  <div class="unirex-new-roadmap__container">
+    <div class="container container--full">
+      <div class="z-grid glider draggable">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="glider-track" style="width: 1316.67px;"><div class="z-grid__cell 1/3--lap-and-up glider-slide active left-1 visible" data-gslide="0" style="height: auto; width: 263.333px;">
+            <div class="unirex-new-roadmap__item ">
+              <img srcset="images/Rectangle_48_2_1_165x.jpg 165w, images/Rectangle_48_2_1_360x.jpg 360w, images/Rectangle_48_2_1_535x.jpg 535w, images/Rectangle_48_2_1_750x.jpg 750w, images/Rectangle_48_2_1_1070x.jpg 1070w, index.html" src="images/Rectangle_48_2_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1287" height="450" class="full-width height-auto">
+              <div class="unirex-new-roadmap__content">
+                <div class="heading z-h3 unirex-new-roadmap__title">
+                  <span class="unirex-new-roadmap__count">1</span>SEPT
+                </div>
+                <div class="unirex-new-roadmap__subtitle">UNIREXES</div>
+                <div class="text--small">
+                  Sale of 11 111 Unirexes. Their ultimate goal, party hard while saving the world.
+                </div>
+              </div>
+            </div>
+          </div><div class="z-grid__cell 1/3--lap-and-up glider-slide center visible" data-gslide="1" style="height: auto; width: 263.333px;">
+            <div class="unirex-new-roadmap__item unirex-new-roadmap__item--down">
+              <img srcset="images/GROS-BD_165x.gif 165w, images/GROS-BD_360x.gif 360w, index.html" src="images/GROS-BD_1500x.gif" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="466" height="163" class="full-width height-auto">
+              <div class="unirex-new-roadmap__content">
+                <div class="heading z-h3 unirex-new-roadmap__title">
+                  <span class="unirex-new-roadmap__count">2</span>OCT/NOV
+                </div>
+                <div class="unirex-new-roadmap__subtitle">Unirexcity NFT Comic book</div>
+                <div class="text--small">
+                  Our first Own To Earn (OTE) product. A unique copy of the comic book will be auctioned online.  Expect classic Unirex shit (Weed,Booze, tattoos and exciting adventures).
+                </div>
+              </div>
+            </div>
+          </div><div class="z-grid__cell 1/3--lap-and-up glider-slide right-1 visible" data-gslide="2" style="height: auto; width: 263.333px;">
+            <div class="unirex-new-roadmap__item ">
+              <img srcset="images/Rectangle_45_2_1_165x.jpg 165w, images/Rectangle_45_2_1_360x.jpg 360w, images/Rectangle_45_2_1_535x.jpg 535w, images/Rectangle_45_2_1_750x.jpg 750w, images/Rectangle_45_2_1_1070x.jpg 1070w, index.html" src="images/Rectangle_45_2_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1179" height="450" class="full-width height-auto">
+              <div class="unirex-new-roadmap__content">
+                <div class="heading z-h3 unirex-new-roadmap__title">
+                  <span class="unirex-new-roadmap__count">3</span>OCT to DEC
+                </div>
+                <div class="unirex-new-roadmap__subtitle">Even more comic books</div>
+                <div class="text--small">
+                  A continuation of the first comic book with limited number of copies available for sale.
+                </div>
+              </div>
+            </div>
+          </div><div class="z-grid__cell 1/3--lap-and-up glider-slide right-2" data-gslide="3" style="height: auto; width: 263.333px;">
+            <div class="unirex-new-roadmap__item unirex-new-roadmap__item--down">
+              <img srcset="images/Rectangle_45_3_1_165x.jpg 165w, images/Rectangle_45_3_1_360x.jpg 360w, images/Rectangle_45_3_1_535x.jpg 535w, images/Rectangle_45_3_1_750x.jpg 750w, images/Rectangle_45_3_1_1070x.jpg 1070w, index.html" src="images/Rectangle_45_3_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1287" height="450" class="full-width height-auto">
+              <div class="unirex-new-roadmap__content">
+                <div class="heading z-h3 unirex-new-roadmap__title">
+                  <span class="unirex-new-roadmap__count">4</span>Xmas
+                </div>
+                <div class="unirex-new-roadmap__subtitle">Animé teaser</div>
+                <div class="text--small">
+                  Working on this with one of the finest Japanese anime studios.
+                </div>
+              </div>
+            </div>
+          </div><div class="z-grid__cell 1/3--lap-and-up glider-slide right-3" data-gslide="4" style="height: auto; width: 263.333px;">
+            <div class="unirex-new-roadmap__item ">
+              <img srcset="images/Rectangle_48_1_165x.jpg 165w, images/Rectangle_48_1_360x.jpg 360w, images/Rectangle_48_1_535x.jpg 535w, images/Rectangle_48_1_750x.jpg 750w, images/Rectangle_48_1_1070x.jpg 1070w, index.html" src="images/Rectangle_48_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="1263" height="450" class="full-width height-auto">
+              <div class="unirex-new-roadmap__content">
+                <div class="heading z-h3 unirex-new-roadmap__title">
+                  <span class="unirex-new-roadmap__count">5</span>EARLY 2022
+                </div>
+                <div class="unirex-new-roadmap__subtitle">Video game</div>
+                <div class="text--small">
+                  Unirexcity got a Motherfucking NFT game! Play to earn is the keyword!
+                </div>
+              </div>
+            </div>
+          </div></div></div>
+    </div>
+    <img class="unirex-new-roadmap__arrow-left disabled" src="images/Vector_20.png" alt="arrow left" aria-disabled="true">
+    <img class="unirex-new-roadmap__arrow-right" src="images/Vector_20.png" alt="arrow right" aria-disabled="false">
+  </div>
+</section>
+
+
+
+</div><div id="shopify-section-template--15158763815088__1632185947165bd651" class="shopify-section">
+
+
+<style>
+  #faq {
+    padding-top: 100px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #faq {
+      padding-top: 50px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="faq" data-section-id="template--15158763815088__1632185947165bd651"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__163170762658578f80" class="shopify-section"><link href="css/section-faq.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__163170762658578f80" class="faq" data-section-id="template--15158763815088__163170762658578f80" data-section-type="faq">
+  <div class="container container align-left">
+    <h2 class="heading z-h1 faq__title">FREXENTLY ASKED QUESTIONS</h2>
+    <div class="faq-content">
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">WHAT IS UNIREXCITY?</h3>
+          <div class="faq__question__answer text--small">
+            <p>A natural evolution of the human race. Humans took their chance, lost their way &amp; derailed humanity off of the rails. <br><br>Unirexes&nbsp;now have the opportunity to do better on the Solana chain.</p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">What are unirexes?</h3>
+          <div class="faq__question__answer text--small">
+            <p>The population of Unirexcity. 11 111 unique characters, who are still fixing&nbsp;human mistakes &amp; making their own along the way.</p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">What is Own to Earn (OTE)?</h3>
+          <div class="faq__question__answer text--small">
+            <p>A term we came up with @unirexcity.<br><br>In short, it is all about paying royalties to NFT owners for unirexes that get featured in one of our future products (NFT Comic books, NFT Gaming, etc.)</p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">How will we decide which unirexes will profit from the OTE program?</h3>
+          <div class="faq__question__answer text--small">
+            <p>We're developing a dedicated open source program to ensure every unirex would have an equal chance. The code will be made available on github. <br><br>The team will then run the code on twitter/discord live to show the selected unirexes.</p><p></p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">How many unirexes will receive OTE royalties?</h3>
+          <div class="faq__question__answer text--small">
+            <p>We'll make sure that in each new drop, whether a comic book, an animé or IRL that at least 10 unirexes are present.<br></p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">What will be the % of royalties allocated to OTE?</h3>
+          <div class="faq__question__answer text--small">
+            <p>30% to 50% of each drop.<br></p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">Wen mint?</h3>
+          <div class="faq__question__answer text--small">
+            <p>Somewhere around the end of September and beginning&nbsp;of October.<br></p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">What will be the mint price?</h3>
+          <div class="faq__question__answer text--small">
+            <p>The mint price will be 2 SOL.</p><p></p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">Will there be a secondary market?</h3>
+          <div class="faq__question__answer text--small">
+            <p>Yes, we're in touch with major marketplaces to ensure a listing right after the drop.</p>
+          </div>
+        </div>
+
+        <div class="faq__question">
+          <h3 class="heading z-h3 faq__question__title">Will there be secondary sale royalties?</h3>
+          <div class="faq__question__answer text--small">
+            <p>Royalties will be 5% for the first drop NFTs.<br><br>We have a full list of cool things that we're already working on for our OTE program.&nbsp;&nbsp;Secondary sales will help fund part of these projects &amp; will in turn be redistributed back to the community.</p>
+          </div>
+        </div>
+
+    </div>
+  </div>
+  <div class="faq__image reset-font">
+    <img srcset="images/Mask_Group_5_1_165x.png 165w, images/Mask_Group_5_1_360x.png 360w, images/Mask_Group_5_1_535x.png 535w, images/Mask_Group_5_1_750x.png 750w, index.html" src="images/Mask_Group_5_1_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="972" height="2289">
+  </div>
+</section>
+
+<script>
+document.querySelectorAll('.faq__question__title').forEach(function(el) {
+  el.addEventListener('click', event => {
+    document.querySelectorAll('.faq__question__answer').forEach(function(item) {
+      item.style.height = 0;
+    });
+    var height = el.parentNode.querySelector('.faq__question__answer p').offsetHeight + 50;
+    height += "px";
+    el.parentNode.querySelector('.faq__question__answer').style.height = height;
+  });
+});
+</script>
+
+
+</div><div id="shopify-section-template--15158763815088__163225513044a3910a" class="shopify-section">
+
+
+<style>
+  #team {
+    padding-top: 0px;
+    background: ;
+  }
+  @media all and (max-width:800px) {
+    #team {
+      padding-top: 0px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="team" data-section-id="template--15158763815088__163225513044a3910a"></div>
+
+
+</div><div id="shopify-section-template--15158763815088__1631736132d4dfd22b" class="shopify-section"><link href="css/section-team.css" rel="stylesheet" type="text/css" media="all">
+
+<section id="section-template--15158763815088__1631736132d4dfd22b" class="team align-left" data-section-id="template--15158763815088__1631736132d4dfd22b" data-section-type="team">
+  <div class="container container--large">
+    <h2 class="heading z-h0 align-left team__title">CREATIVE TEAM</h2>
+  </div>
+    <div class="team__content">
+      <div class="container container--large">
+        <div class="z-grid">
+
+          <div class="z-grid__cell 1/2 1/4--lap-and-up team__mate">
+            <img srcset="images/Rectangle_38_1_165x.jpg 165w, images/Rectangle_38_1_360x.jpg 360w, images/Rectangle_38_1_535x.jpg 535w, images/Rectangle_38_1_750x.jpg 750w, index.html" src="images/Rectangle_38_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="825" height="1032" class="team__image full-width height-auto">
+            <h3 class="heading z-h3 team__artist">Florent<br>Hauchard</h3>
+            <div class="heading z-h3 team__spec hide">2D</div>
+            <div class="team__text"><p>Illustrator / Art Director <br><strong>Co-Founder @yokoshop</strong></p></div>
+            <a href="https://instagram.com/florenthauchard" class="team__instagram" target="_blank">florenthauchard</a>
+            <a href="https://behance.net/flonh" class="team__link hide" target="_blank">behance.net/flonh</a>
+          </div>
+
+          <div class="z-grid__cell 1/2 1/4--lap-and-up team__mate">
+            <img srcset="images/Rectangle_39_1_165x.jpg 165w, images/Rectangle_39_1_360x.jpg 360w, images/Rectangle_39_1_535x.jpg 535w, images/Rectangle_39_1_750x.jpg 750w, index.html" src="images/Rectangle_39_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="825" height="1032" class="team__image full-width height-auto">
+            <h3 class="heading z-h3 team__artist">HUGO<br>LUCAS</h3>
+            <div class="heading z-h3 team__spec hide">3d</div>
+            <div class="team__text"><p>Graphic designer / 3D artist<br><strong>Character artist @ Ubisoft OwlientTypography</strong></p></div>
+            <a href="https://instagram.com/dunkel_o5k" class="team__instagram" target="_blank">dunkel_o5k</a>
+            <a href="https://artstation.com/hugolucas" class="team__link hide" target="_blank">artstation.com/hugolucas</a>
+          </div>
+
+          <div class="z-grid__cell 1/2 1/4--lap-and-up team__mate">
+            <img srcset="images/Rectangle_40_1_165x.jpg 165w, images/Rectangle_40_1_360x.jpg 360w, images/Rectangle_40_1_535x.jpg 535w, images/Rectangle_40_1_750x.jpg 750w, index.html" src="images/Rectangle_40_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="825" height="1032" class="team__image full-width height-auto">
+            <h3 class="heading z-h3 team__artist">Lamine<br>DE CHARBON</h3>
+            <div class="heading z-h3 team__spec hide">COMIC BOOK</div>
+            <div class="team__text"><p>Illustrator / Art director</p><p><strong>Art director @talisterparis</strong></p></div>
+            <a href="https://instagram.com/laminedecharbon" class="team__instagram" target="_blank">laminedecharbon</a>
+            <a href="https:///" class="team__link hide" target="_blank"></a>
+          </div>
+
+          <div class="z-grid__cell 1/2 1/4--lap-and-up team__mate">
+            <img srcset="images/Rectangle_49_1_165x.jpg 165w, images/Rectangle_49_1_360x.jpg 360w, images/Rectangle_49_1_535x.jpg 535w, images/Rectangle_49_1_750x.jpg 750w, index.html" src="images/Rectangle_49_1_1500x.jpg" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="825" height="1032" class="team__image full-width height-auto">
+            <h3 class="heading z-h3 team__artist">CAMILLE hœrmannn<br>&amp;LUCAS leonelli</h3>
+            <div class="heading z-h3 team__spec hide"></div>
+            <div class="team__text"><p>Art Directors<br><strong>Founders @bigcheeseparis</strong></p></div>
+            <a href="https://instagram.com/bigcheeseparis" class="team__instagram" target="_blank">bigcheeseparis</a>
+            <a href="https://bigcheese.fr/" class="team__link hide" target="_blank">bigcheese.fr</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section></div>
+
+
+
+
+<div id="shopify-section-template--15158763815088__16321844160ea44f4b" class="shopify-section">
+
+
+<style>
+  #template--15158763815088__16321844160ea44f4b {
+    padding-top: 100px;
+    background: #eee5dc;
+  }
+  @media all and (max-width:800px) {
+    #template--15158763815088__16321844160ea44f4b {
+      padding-top: 40px;
+    }
+  }
+  /**/
+</style>
+
+<link href="css/section-spacing.css" rel="stylesheet" type="text/css" media="all">
+
+<div class="spacing" id="template--15158763815088__16321844160ea44f4b" data-section-id="template--15158763815088__16321844160ea44f4b"></div>
+
+
+</div>
+    </main>
+
+
+
+    <div id="shopify-section-unirex-footer" class="shopify-section"><link href="css/section-unirex-footer.css" rel="stylesheet" type="text/css" media="all">
+
+<footer class="unirex-footer">
+  <div class="z-grid">
+    <div class="z-grid__cell 1/3--lap-and-up">
+      <a href="https://twitter.com/unirexcity" class="heading footer__link">
+        <img srcset="images/Vector_2_165x.png 165w, index.html" src="images/Vector_2_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="173" height="141" class="footer__link-image">
+        @UNIREXCITY
+      </a>
+      <div class="z-grid__cell hide--lap-and-up">
+        <a href="https://discord.gg/c7txUnnJjY" class="heading footer__link">
+          <img srcset="images/discord-logo-png-7617_165x.png 165w, images/discord-logo-png-7617_360x.png 360w, index.html" src="images/discord-logo-png-7617_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="512" height="512" class="footer__link-image">
+          JOIN US ON DISCORD
+        </a>
+      </div>
+    </div>
+    <div class="z-grid__cell 1/3--lap-and-up">
+      <img srcset="images/ezgif.com-gif-maker_165x.png 165w, images/ezgif.com-gif-maker_360x.png 360w, index.html" src="images/ezgif.com-gif-maker_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="400" height="158" class="footer__image">
+      <small class="heading copyright-uni">COPYRIGHT 2021 - UNIREXCITY</small>
+    </div>
+    <div class="z-grid__cell 1/3--lap-and-up hide--pocket">
+      <a href="https://discord.gg/c7txUnnJjY" class="heading footer__link">
+        JOIN US ON DISCORD
+        <img srcset="images/discord-logo-png-7617_165x.png 165w, images/discord-logo-png-7617_360x.png 360w, index.html" src="images/discord-logo-png-7617_1500x.png" sizes="(min-width: 1600px) 750px, (min-width: 750px) calc((100vw - 130px) / 2), calc((100vw - 50px) / 2)" alt loading="lazy" width="512" height="512" class="footer__link-image">
+      </a>
+    </div>
+  </div>
+</footer>
+
+
+</div>
+
+    <div data-hearts-container class="hearts"><span class="heart_particle" data-heart style="bottom: 0; left:23%;width:20.333333333333332px; height:20.333333333333332px;animation-delay: 0.2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:65%;width:29.666666666666668px; height:29.666666666666668px;animation-delay: 0.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:84%;width:23.333333333333332px; height:23.333333333333332px;animation-delay: 2.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:55%;width:38.333333333333336px; height:38.333333333333336px;animation-delay: 2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:90%;width:39.333333333333336px; height:39.333333333333336px;animation-delay: 1.8s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:77%;width:22.333333333333332px; height:22.333333333333332px;animation-delay: 1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:18%;width:22.666666666666668px; height:22.666666666666668px;animation-delay: 1.9s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:64%;width:27.333333333333332px; height:27.333333333333332px;animation-delay: 1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:36%;width:31.666666666666668px; height:31.666666666666668px;animation-delay: 0.3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:37%;width:39.333333333333336px; height:39.333333333333336px;animation-delay: 2.9s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:53%;width:27.666666666666668px; height:27.666666666666668px;animation-delay: 0.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:73%;width:37.333333333333336px; height:37.333333333333336px;animation-delay: 0.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:56%;width:40px; height:40px;animation-delay: 0.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:87%;width:36px; height:36px;animation-delay: 2.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:31%;width:21.333333333333332px; height:21.333333333333332px;animation-delay: 2.9s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:92%;width:28px; height:28px;animation-delay: 1.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:17%;width:22.333333333333332px; height:22.333333333333332px;animation-delay: 0.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:81%;width:26.666666666666668px; height:26.666666666666668px;animation-delay: 1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:53%;width:32px; height:32px;animation-delay: 1.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:77%;width:25px; height:25px;animation-delay: 1.3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:41%;width:38.666666666666664px; height:38.666666666666664px;animation-delay: 0.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:62%;width:31.666666666666668px; height:31.666666666666668px;animation-delay: 2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:25%;width:33px; height:33px;animation-delay: 2.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:68%;width:30.333333333333332px; height:30.333333333333332px;animation-delay: 1.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:11%;width:34.333333333333336px; height:34.333333333333336px;animation-delay: 1.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:61%;width:28.333333333333332px; height:28.333333333333332px;animation-delay: 1.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:82%;width:34.333333333333336px; height:34.333333333333336px;animation-delay: 1.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:7%;width:35.333333333333336px; height:35.333333333333336px;animation-delay: 1.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:55%;width:34px; height:34px;animation-delay: 2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:81%;width:26.333333333333332px; height:26.333333333333332px;animation-delay: 1.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:39%;width:20.666666666666668px; height:20.666666666666668px;animation-delay: 0s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:61%;width:26.333333333333332px; height:26.333333333333332px;animation-delay: 2.9s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:95%;width:28.333333333333332px; height:28.333333333333332px;animation-delay: 1.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:68%;width:23px; height:23px;animation-delay: 1.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:10%;width:25.666666666666668px; height:25.666666666666668px;animation-delay: 1.3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:75%;width:40px; height:40px;animation-delay: 0.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:17%;width:20.666666666666668px; height:20.666666666666668px;animation-delay: 1.7s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:92%;width:29px; height:29px;animation-delay: 0.6s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:43%;width:20.333333333333332px; height:20.333333333333332px;animation-delay: 2.8s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:16%;width:21.333333333333332px; height:21.333333333333332px;animation-delay: 0.1s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:34%;width:24.333333333333332px; height:24.333333333333332px;animation-delay: 2.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:73%;width:39.666666666666664px; height:39.666666666666664px;animation-delay: 1.3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:82%;width:37px; height:37px;animation-delay: 0.2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:18%;width:27.666666666666668px; height:27.666666666666668px;animation-delay: 0.9s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:28%;width:33.666666666666664px; height:33.666666666666664px;animation-delay: 2.5s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:18%;width:21.666666666666668px; height:21.666666666666668px;animation-delay: 2.2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:46%;width:35.333333333333336px; height:35.333333333333336px;animation-delay: 2.2s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:24%;width:24.666666666666668px; height:24.666666666666668px;animation-delay: 1.4s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:32%;width:32px; height:32px;animation-delay: 3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:25%;width:24.333333333333332px; height:24.333333333333332px;animation-delay: 3s;"></span><span class="heart_particle" data-heart style="bottom: 0; left:37%;width:28px; height:28px;animation-delay: 1.5s;"></span></div>
+    <div data-solanart-container class="solanart"><span class="solanart_particle" data-heart style="bottom: 0; left:40%;width:35px; height:35px;animation-delay: 2.4s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:71%;width:26px; height:26px;animation-delay: 3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:52%;width:33.666666666666664px; height:33.666666666666664px;animation-delay: 0s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:77%;width:37.666666666666664px; height:37.666666666666664px;animation-delay: 2.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:94%;width:38.666666666666664px; height:38.666666666666664px;animation-delay: 1.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:3%;width:30.333333333333332px; height:30.333333333333332px;animation-delay: 0.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:8%;width:35px; height:35px;animation-delay: 2.3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:63%;width:32.333333333333336px; height:32.333333333333336px;animation-delay: 2.6s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:46%;width:26px; height:26px;animation-delay: 1.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:12%;width:39px; height:39px;animation-delay: 1.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:32%;width:25px; height:25px;animation-delay: 2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:93%;width:35.333333333333336px; height:35.333333333333336px;animation-delay: 1.1s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:87%;width:25px; height:25px;animation-delay: 0.6s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:75%;width:26.666666666666668px; height:26.666666666666668px;animation-delay: 2.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:52%;width:30.666666666666668px; height:30.666666666666668px;animation-delay: 1.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:62%;width:28.666666666666668px; height:28.666666666666668px;animation-delay: 2.4s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:11%;width:24.666666666666668px; height:24.666666666666668px;animation-delay: 1.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:53%;width:34px; height:34px;animation-delay: 1s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:78%;width:29.666666666666668px; height:29.666666666666668px;animation-delay: 0.3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:21%;width:32.333333333333336px; height:32.333333333333336px;animation-delay: 1.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:21%;width:22.333333333333332px; height:22.333333333333332px;animation-delay: 0.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:56%;width:23px; height:23px;animation-delay: 2.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:47%;width:22.666666666666668px; height:22.666666666666668px;animation-delay: 0s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:50%;width:25.666666666666668px; height:25.666666666666668px;animation-delay: 2.1s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:49%;width:35px; height:35px;animation-delay: 2.6s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:55%;width:30.333333333333332px; height:30.333333333333332px;animation-delay: 2.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:65%;width:20px; height:20px;animation-delay: 0.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:82%;width:29px; height:29px;animation-delay: 2.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:79%;width:28.333333333333332px; height:28.333333333333332px;animation-delay: 1.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:57%;width:39.333333333333336px; height:39.333333333333336px;animation-delay: 0.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:29%;width:27px; height:27px;animation-delay: 0.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:31%;width:37.666666666666664px; height:37.666666666666664px;animation-delay: 1.3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:82%;width:24.333333333333332px; height:24.333333333333332px;animation-delay: 1.1s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:38%;width:28.666666666666668px; height:28.666666666666668px;animation-delay: 1.6s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:64%;width:37.666666666666664px; height:37.666666666666664px;animation-delay: 2.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:56%;width:21.333333333333332px; height:21.333333333333332px;animation-delay: 1.3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:63%;width:32.666666666666664px; height:32.666666666666664px;animation-delay: 0.8s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:49%;width:34.333333333333336px; height:34.333333333333336px;animation-delay: 0s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:27%;width:25px; height:25px;animation-delay: 2.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:53%;width:21.666666666666668px; height:21.666666666666668px;animation-delay: 1.9s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:10%;width:21px; height:21px;animation-delay: 3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:30%;width:23.666666666666668px; height:23.666666666666668px;animation-delay: 2.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:28%;width:38px; height:38px;animation-delay: 0.3s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:32%;width:32.666666666666664px; height:32.666666666666664px;animation-delay: 0.7s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:84%;width:21px; height:21px;animation-delay: 0.4s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:32%;width:36.666666666666664px; height:36.666666666666664px;animation-delay: 0.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:57%;width:35.666666666666664px; height:35.666666666666664px;animation-delay: 0s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:73%;width:21.333333333333332px; height:21.333333333333332px;animation-delay: 2.4s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:30%;width:23px; height:23px;animation-delay: 2.2s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:29%;width:22px; height:22px;animation-delay: 1.4s;"></span><span class="solanart_particle" data-heart style="bottom: 0; left:39%;width:38.333333333333336px; height:38.333333333333336px;animation-delay: 2.3s;"></span></div>
+
+
+    <ul hidden>
+      <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    </ul>
+
+    <script>
+      window.routes = {
+        cart_add_url: '/cart/add',
+        cart_change_url: '/cart/change',
+        cart_update_url: '/cart/update',
+        predictive_search_url: '/search/suggest'
+      };
+
+      window.cartStrings = {
+        error: `There was an error while updating your cart. Please try again.`,
+        quantityError: `You can only add [quantity] of this item to your cart.`
+      }
+
+      window.variantStrings = {
+        addToCart: `Add to cart`,
+        soldOut: `Sold out`,
+        unavailable: `Unavailable`,
+      }
+
+      window.accessibilityStrings = {
+        shareSuccess: `Link copied to clipboard`,
+      }
+    </script><script src="js/predictive-search.js" defer="defer"></script><script src="js/fb_pixel.js" defer="defer"></script>
+
+    <script src="js/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+
+    <!-- made with love by @zerance -->
+    <script>console.log("Made with love by @zerance <3")</script>
+    <!-- Miaou -->
+
+
+
+</body>
+<!-- Mirrored from unirexcity.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 14 Oct 2021 09:09:55 GMT -->
+</html>
